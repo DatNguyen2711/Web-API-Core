@@ -1,0 +1,37 @@
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.csproj.AssemblyReference.cache
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.AssemblyInfoInputs.cache
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.AssemblyInfo.cs
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.csproj.CoreCompileInputs.cache
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\appsettings.json
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\JWTWebAPI First.exe
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\JWTWebAPI First.deps.json
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\JWTWebAPI First.runtimeconfig.json
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\JWTWebAPI First.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\JWTWebAPI First.pdb
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\staticwebassets\msbuild.JWTWebAPI First.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\staticwebassets\msbuild.build.JWTWebAPI First.props
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JWTWebAPI First.props
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JWTWebAPI First.props
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\scopedcss\bundle\JWTWebAPI First.styles.css
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.csproj.CopyComplete
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\refint\JWTWebAPI First.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.pdb
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\JWTWebAPI First.genruntimeconfig.cache
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\obj\Debug\net6.0\ref\JWTWebAPI First.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\JWTWebAPI First\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

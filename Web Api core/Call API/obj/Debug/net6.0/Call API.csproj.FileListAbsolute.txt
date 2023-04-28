@@ -1,0 +1,15 @@
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\bin\Debug\net6.0\Call API.exe
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\bin\Debug\net6.0\Call API.deps.json
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\bin\Debug\net6.0\Call API.runtimeconfig.json
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\bin\Debug\net6.0\Call API.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\bin\Debug\net6.0\Call API.pdb
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\Call API.csproj.AssemblyReference.cache
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\Call API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\Call API.AssemblyInfoInputs.cache
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\Call API.AssemblyInfo.cs
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\Call API.csproj.CoreCompileInputs.cache
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\Call API.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\refint\Call API.dll
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\Call API.pdb
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\Call API.genruntimeconfig.cache
+C:\Users\datla\OneDrive\Documents\VisualStudioProjects\Web Api core\Call API\obj\Debug\net6.0\ref\Call API.dll
